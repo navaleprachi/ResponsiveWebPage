@@ -30,7 +30,9 @@ Before running the project, ensure you have:
 ### 1. Clone the Repository
 
 Clone the repository to your local machine:
+```bash
 git clone https://github.com/navaleprachi/ResponsiveWebPage.git
+```
 or
 download the zip file
 
